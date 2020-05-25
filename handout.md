@@ -131,7 +131,7 @@ Variables can have following types:
 - Number
 - Color
 - String
-- List (e.g. `[10, 20, 30]`)
+- List (e.g. `(10, 20, 30)`)
 - Map (e.g. `(1: 10, 2: 20, 3: 30)`)
 - Null
 
